@@ -1,6 +1,5 @@
 import './App.css'
 import { BootstrapCss } from './Components/BootstrapCss/BootstrapCss'
-import { TailwindCss } from './Components/TailwindCss/TailwindCss'
 
 function App() {
 

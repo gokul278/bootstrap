@@ -1,5 +1,5 @@
 import React from 'react'
-import Inputbox from '../../Pages/Bootstrap/Input/Inputbox'
+import Inputbox from '../../Pages/Bootstrap/Input/InputBox'
 import { TextArea } from '../../Pages/Bootstrap/Input/TextArea'
 import Button from '../../Pages/Bootstrap/Button/Button'
 import Toast from '../../Pages/Bootstrap/Toast/ToastUI'
