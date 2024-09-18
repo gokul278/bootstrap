@@ -10,7 +10,7 @@ function App() {
           {/* <div className="w-[50%] bg-[#F5F7F8]">
             <TailwindCss />
           </div> */}
-          <div className="w-[50%] bg-[#F5F7F8]">
+          <div className="w-[100%] lg:w-[50%] bg-[#F5F7F8]">
             <BootstrapCss />
           </div>
 
